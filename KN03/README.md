@@ -27,3 +27,4 @@
 <img src="./images/info.php.png">
 <img src="./images/dbphp.png">
 <img src="./images/adminer.png">
+<img src="./images/loggedin.png">

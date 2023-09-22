@@ -14,12 +14,9 @@ disable_root: false
 package_update: true
 packages:
   - mariadb-server
-  - php-mysqli
 runcmd:
-  - sudo apt update
   - sudo apt -y install mariadb-server php-mysqli
   - sudo mysql -sfu root -e "GRANT ALL ON *.* TO 'admin'@'%' IDENTIFIED BY 'password' WITH GRANT OPTION;"
   - sudo systemctl restart mariadb.service
-  - sudo a2enconf adminer
   - sudo sed -i 's/127.0.0.1/0.0.0.0/g' /etc/mysql/mariadb.conf.d/50-server.cnf
   - sudo systemctl restart mysql
