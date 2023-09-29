@@ -18,8 +18,10 @@
 
 <img src="./images/volumes.png">
 
-| -                        | Typ           | Persistenz |
-| ------------------------ | ------------- | ---------- |
-| EBS Root                 | hot/warm/cold | ja/nein    |
-| EBS Zusätzliches Volumen | hot/warm/cold | ja/nein    |
-| S3                       | hot/warm/cold | ja/nein    |
+## D
+
+|                          | Typ  | Persistenz |
+| ------------------------ | ---- | ---------- |
+| EBS Root                 | hot  | ja         |
+| EBS Zusätzliches Volumen | warm | ja         |
+| S3                       | warm | ja         |
