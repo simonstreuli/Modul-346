@@ -34,6 +34,16 @@ Enterprise Version da man mehr Funktionen hat und es eine höhere Sicherheit und
 
 <img src="./images/salesforce.png">
 
-80 * 16 = *1280\*
+80 \* 16 = **1280**
 
 Sales Professional da alle Funktionen dabei sind und es ein komplette CRM Applikation ist.
+
+SaaS Lösungen sind viel teuerer, aber bieten eine komplette Applikation bei IaaS und PaaS hat man noch kosten für die Installation, den Code und die Verwaltung. Bei IaaS und PaaS kann man die Applikation spezifisch gestalten und eigene Features erstellen.
+
+# B
+
+Die Angebote unterscheiden sich sehr. Bei IaaS muss man sehr viel konfigurieren und es ist "billig" und bei SaaS zahlt man sehr viel, aber muss sich um nicht viel kümmern.
+
+Das billigste ist IaaS, aber man muss auch am meisten konfigurieren.
+
+Weil man die komplette Applikation bekommt und man nicht entwicklen, verwalten und hosten muss. Bei den anderen kommen noch andere Kosten darauf.
