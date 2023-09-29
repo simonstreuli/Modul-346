@@ -20,6 +20,8 @@
 
 <img src="./images/heroku.png">
 
+Ein Web Server und ein Postgres Datenbank Server bei dem Backup inbegriffen ist.
+
 # 3
 
 ## Zoho CRM
@@ -46,4 +48,4 @@ Die Angebote unterscheiden sich sehr. Bei IaaS muss man sehr viel konfigurieren 
 
 Das billigste ist IaaS, aber man muss auch am meisten konfigurieren.
 
-Weil man die komplette Applikation bekommt und man nicht entwicklen, verwalten und hosten muss. Bei den anderen kommen noch andere Kosten darauf.
+SaaS ist am teuresten, weil man die komplette Applikation bekommt und man nicht entwicklen, verwalten und hosten muss. Bei den anderen kommen noch andere Kosten darauf.
