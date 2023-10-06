@@ -30,7 +30,7 @@ Ein Web Server und ein Postgres Datenbank Server bei dem Backup inbegriffen ist.
 
 40 \* 16 = **640**
 
-Enterprise Version da man mehr Funktionen hat und es eine höhere Sicherheit und Skalierbarkeit hat.
+Enterprise Version da man mehr Funktionen hat und es eine höhere Sicherheit und Skalierbarkeit bietet.
 
 ## Salesforce
 
@@ -38,7 +38,7 @@ Enterprise Version da man mehr Funktionen hat und es eine höhere Sicherheit und
 
 80 \* 16 = **1280**
 
-Sales Professional da alle Funktionen dabei sind und es ein komplette CRM Applikation ist.
+Sales Professional da alle Funktionen dabei sind.
 
 SaaS Lösungen sind viel teuerer, aber bieten eine komplette Applikation bei IaaS und PaaS hat man noch kosten für die Installation, den Code und die Verwaltung. Bei IaaS und PaaS kann man die Applikation spezifisch gestalten und eigene Features erstellen.
 
