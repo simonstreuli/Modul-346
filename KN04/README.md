@@ -22,8 +22,8 @@
 
 |                          | Typ  | Persistenz |
 | ------------------------ | ---- | ---------- |
-| EBS Root                 | hot  | ja         |
-| EBS Zusätzliches Volumen | warm | ja         |
+| EBS Root                 | hot  | nein       |
+| EBS Zusätzliches Volumen | hot  | ja         |
 | S3                       | warm | ja         |
 
 Erklärung: ESB Root ist hot, da dort das Betriebssystem liegt und es stetig verwendet wird. EBS Zusätzliches Volumen ist warm, da es Daten drauf gespeichert hat, die nicht archiviert werden, aber auch nicht durchgehend verwendet werden. Bei S3 kann man als warm und cold bezeichnen, da man Daten archivieren kann, aber sie auch verwenden kann.
