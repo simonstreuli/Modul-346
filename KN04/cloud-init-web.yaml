@@ -28,7 +28,7 @@ write_files:
         </head>
         <body>
           Hier kommt Ihr Text.<br />
-          <img src="https://simon-streuli-bucket.s3.us-east-1.amazonaws.com/icon_happy.png?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBsaDGV1LWNlbnRyYWwtMSJGMEQCIE9tP7nyvqCbciakCL7OhNhaXXHl78gc5T8Ga0O0Nb44AiBnyEbA%2BWA1PsJk9F2Bu7pCR%2FX8JtvyJt0td6mpTOCQRir5AggUEAAaDDkyMDcwMTEyMDcxNCIMOaA1lNdaeZc%2FZdLLKtYCJXHCVfUuoq8hj%2FLqR1xfF18wX83clrHHdbksgUuijcFPJa8ATslfgtqiMsi4XdRa%2B7bUNTr9bCnTaCtGmQzbRWakScHsgGuOAy9ImcF6fTEjF%2FZRMdW6PI9jC8gTmMCX3TksKqDQpFU6lLMLF23BYQAiT2m17iBOK8Wr8gbXQYAXNxtnKfOFfm%2Bt4CTO0y5s1dTpFpl2pp9RHyivCZ0ew2ABXKv%2F%2FhSOzkmpw1fXMhP9ST%2BdlzvN8FMk5yy4xP8OjCfWgdFKMSS3xQaNkhOXGauJ9ak06fIzcMMp4ylIDeNJqH4viJjSJUJt70yrdXEGHBVGPX4TVKqwwntbuTHZ%2Fbkc4SgfaOB8mC9GZMJRzE7WAfybiLQLyhXIqIXnxwYY3trjiMKBSN3XgnA2UdT0DYTWPkisVnt9U1sGbjB47DQF9PJt0cQ1i832PjvWHt3vi1IW0%2F9QMNbwtagGOogCcEUu%2BuwSA7NmlbV0Mof6AaBwx5La%2B8nTYgL3kpRJm8wz1prfaJCw6tv6Rt1cANfPzq%2BYo345rUCCsFs92%2FGYFHbbxz8IMGgCllrcqn%2FBYIRpA01yQK9iHAzVWa8yY87XrP03EGshjVYs4R1MxLXiN8rXC4ITYZ0hi7qIhRkSj%2B96hNrHdmq6BxXrBNKCOyBRHnQhUn9%2BfxKL4jpwM6uIGC3ymVnXxKhFVK2gb3qZQS2Ksqnoo3v1E4%2FaUWTBgES28yygKgvkr7ct3wH5fBWhuk%2Fhs3w1KubJ%2FoTpKlxzxcovDkY6xzNPm3dYqvsFiBdl2Zi4E6PF359G9LcIBDal%2BFNRhsFzM8S1&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230922T114819Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIA5MXQQGDFOMDCX5XA%2F20230922%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c91d375165b000438919968146814c55c0c6f711cc774276c8d96bff079d1032" />
+          <img src="https://simon-streuli-bucket.s3.amazonaws.com/icon_happy.png" />
 
           Platzieren Sie hier notwendige Quellenangaben, z.B. wenn der Inhalt von unsplash kommt.
         </body>
