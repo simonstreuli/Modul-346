@@ -6,7 +6,9 @@
 
 ## Screenshot der Subnetzen, die die Namen zeigen
 
-<img src="./images/vpcs.png">
+<img src="./images/1subnet-kn05.png">
+
+<img src="./images/kn03-vpc.png">
 
 ## Zwei definierte IPs für Web- und DB-Server/Instanz
 
