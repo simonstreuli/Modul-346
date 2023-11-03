@@ -34,10 +34,13 @@ Ein Reverse Proxy ist wie eine Art Server, der als Vermittler zwischen Client un
 
 ## C Horizentale Skalierung)
 
+<img src="./images/load-balancer.png">
 **Erklärung**
 Wir müssen eine Zielgruppe definieren, um festzustellen, welche beiden Instanzen betroffen sind. Anschliessend richten wir den Load Balancer ein, der auf diese Zielgruppe verweist, die wiederum auf die Instanzen verweist. Von dort aus können wir die DNS-Adresse des Load Balancers aufrufen, und er sollte die Last zwischen den beiden Instanzen ausbalancieren.
 
 ## D Auto Scaling
+
+<img src="./images/autoscaling.png">
 
 Wenn beide Instanzen gestoppt sind, erstellt sich automatisch neue mit Template.
 <img src="./images/ergebniss.png">
