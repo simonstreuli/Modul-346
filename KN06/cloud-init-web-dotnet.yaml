@@ -57,7 +57,7 @@ runcmd:
   - sudo apt-get update
   - sudo apt-get install -y mongodb-mongosh
   # import mongodb collections
-  - mongosh "mongodb+srv://cluster0.fzeejfr.mongodb.net/" --u dbUser -p bvtfiwc39nOmGtjo < /home/ubuntu/m346scripts/KN06/shop-database-mongodb.txt
+  - mongosh "mongodb+srv://cluster0.fzeejfr.mongodb.net/" --u simonstreuli -p YmKaBOx8qrTOMlp8 < /home/ubuntu/m346scripts/KN06/shop-database-mongodb.txt
   # install App
   - sudo mkdir /var/www
   - sudo mkdir /var/www/app
